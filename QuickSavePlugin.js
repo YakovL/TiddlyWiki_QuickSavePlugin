@@ -3,6 +3,7 @@
 |Version    |1.1|
 |Author     |Yakov Litvin|
 |Source     |https://github.com/YakovL/TiddlyWiki_QuickSavePlugin/blob/master/QuickSavePlugin.js|
+|License    |[[MIT|https://github.com/YakovL/TiddlyWiki_YL_ExtensionsCollection/blob/master/Common%20License%20(MIT)]]|
 ***/
 //{{{
 jQuery(document).on('keydown', null, function($e) {
