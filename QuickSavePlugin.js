@@ -11,9 +11,9 @@ jQuery(document).on('keydown', null, function($e) {
 
     if($e.ctrlKey && $e.originalEvent.code === 'KeyS') {
         saveChanges()
-    
+
         if($e.preventDefault) $e.preventDefault()
         return false
     }
-})    
+})
 //}}}
