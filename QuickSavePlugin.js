@@ -1,8 +1,8 @@
 /***
 |Description|Enables Ctrl + S hotkey to save changes (and not browser default action)|
-|Version    |1.1|
-|Author     |Yakov Litvin|
 |Source     |https://github.com/YakovL/TiddlyWiki_QuickSavePlugin/blob/master/QuickSavePlugin.js|
+|Author     |Yakov Litvin|
+|Version    |1.1|
 |License    |[[MIT|https://github.com/YakovL/TiddlyWiki_YL_ExtensionsCollection/blob/master/Common%20License%20(MIT)]]|
 ***/
 //{{{
